@@ -5,7 +5,6 @@
   "dependencies": {
     "@loadable/component": "^5.15.0",
     "@reduxjs/toolkit": "^1.6.1",
-    "@types/react-redux": "^7.1.18",
     "axios": "^0.21.1",
     "classnames": "^2.3.1",
     "formik": "^2.2.9",
@@ -24,6 +23,8 @@
     "@types/node": "^12.0.0",
     "@types/react": "^17.0.0",
     "@types/react-dom": "^17.0.0",
+    "@types/react-router-dom": "^5.1.8",
+    "@types/react-redux": "^7.1.18",
     "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-promise": "^5.1.0",
     "husky": "^7.0.1",
